@@ -33,3 +33,13 @@ It sets the background to your chosen color! Impressive, isn't it? Well, not rea
 
 When you click on the "Disable messageboxes" button, you may notice that the text in the button has changed to "Enable messageboxes" like this:
 
+<img src="Screenshot 2023-08-11 214340.png" alt="screenshot6" title="screenshot6">
+
+As the button says, it disables the messageboxes that come up (not the color chooser by the way). Want to enable it back again? Click the button again.
+# Credits
+Programming: aquanam (me)
+Helpers: Google, and a Raspberry Pi book I had laying around (stuff that I didn't develop)
+Publisher: aquanam (me)
+Site I published on: GitHub (again, a thing I didn't develop)
+Random 4 digit number: 3259 (by aquanam (me))
+Whitespace:  (by aquanam (me))
