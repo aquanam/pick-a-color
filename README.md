@@ -38,8 +38,7 @@ When you click on the "Disable messageboxes" button, you may notice that the tex
 As the button says, it disables the messageboxes that come up (not the color chooser by the way). Want to enable it back again? Click the button again.
 # Credits
 Programming: aquanam (me)
-Helpers: Google, and a Raspberry Pi book I had laying around (stuff that I didn't develop)
+<br>
 Publisher: aquanam (me)
-Site I published on: GitHub (again, a thing I didn't develop)
-Random 4 digit number: 3259 (by aquanam (me))
-Whitespace:  (by aquanam (me))
+<br>
+Helpers: Google, and a Raspberry Pi book I had laying around (stuff that I didn't develop)
