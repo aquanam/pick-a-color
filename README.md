@@ -1,6 +1,8 @@
 # pick-a-color
 It's simple. A python project that lets you choose a color.
 # Basics
+Please note that the screenshots are from Windows 11. If you're on a different OS, the program may look different. And also, in the sea of pngs, the file you want is called "pick_a_color.py".
+
 When you first start the program, you'll see something that may look like this:
 
 <img src="Screenshot 2023-08-11 203642.png" alt="screenshot1" title="screenshot1">
